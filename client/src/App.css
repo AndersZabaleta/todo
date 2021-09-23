@@ -1,0 +1,23 @@
+table {
+    border-collapse: collapse;
+}
+
+td {
+    border-top: 1px solid black;
+    border-bottom: 1px solid black;
+    padding: 10px;
+    text-align: center;
+    background-color: grey;
+    color: white;
+}
+th {
+    border-top: 1px solid black;
+    border-bottom: 1px solid black;
+    padding: 10px;
+}
+
+body {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
